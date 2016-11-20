@@ -1,0 +1,72 @@
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\App.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\ItemsPage.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\SplitPage.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.exe
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.pdb
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\resources.pri
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\AppxManifest.xml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.build.appxrecipe
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.g.i.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.g.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.g.i.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.g.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.g.i.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.g.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\XamlTypeInfo.g.cs
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.xaml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.xaml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\XamlSaveStateFile.xml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.xaml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.xbf
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\TOOTHSOME CUISINES.exe
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\TOOTHSOME CUISINES.pdb
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\priconfig.xml
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\priconfig.xml.intermediate
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\layout.resfiles
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\layout.resfiles.intermediate
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\resources.resfiles
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\resources.resfiles.intermediate
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\pri.resfiles
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\pri.resfiles.intermediate
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\qualifiers.txt
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\qualifiers.txt.intermediate
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\roja\documents\visual studio 2013\Projects\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ProjectArchitectures.txt
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\App.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\ItemsPage.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\SplitPage.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.exe
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.pdb
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\resources.pri
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\AppxManifest.xml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\bin\Debug\TOOTHSOME CUISINES.build.appxrecipe
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.g.i.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.g.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.g.i.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.g.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.g.i.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.g.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\XamlTypeInfo.g.cs
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.xaml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.xaml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.xaml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\App.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ItemsPage.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\SplitPage.xbf
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\XamlSaveStateFile.xml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\TOOTHSOME CUISINES.exe
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\TOOTHSOME CUISINES.pdb
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\priconfig.xml
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\priconfig.xml.intermediate
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\layout.resfiles
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\layout.resfiles.intermediate
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\resources.resfiles
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\resources.resfiles.intermediate
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\pri.resfiles
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\pri.resfiles.intermediate
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\qualifiers.txt
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\qualifiers.txt.intermediate
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+W:\TOOTHSOME CUISINES\TOOTHSOME CUISINES\obj\Debug\ProjectArchitectures.txt

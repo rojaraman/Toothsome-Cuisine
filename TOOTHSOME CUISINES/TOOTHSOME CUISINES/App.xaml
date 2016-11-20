@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="TOOTHSOME_CUISINES.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TOOTHSOME_CUISINES"
+    xmlns:localData="using:TOOTHSOME_CUISINES.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+        <x:String x:Key="AppName">TOOTHSOME_CUISINES</x:String>
+    </Application.Resources>
+</Application>
